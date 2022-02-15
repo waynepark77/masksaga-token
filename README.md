@@ -1,2 +1,2 @@
-# thetan-token
-Implementation of Thetan Token following by EIP20 format
+# masksaga-token
+Implementation of MaskSaga Token following by EIP20 format
